@@ -2,7 +2,7 @@
 
 Deploy link : https://nithinrandhi.github.io/simple_calculator/
 
-![image](https://user-images.githubusercontent.com/108441259/229294674-18dc01a3-8d2c-4c60-8dde-af0459970cb7.png)
+![image](https://user-images.githubusercontent.com/108441259/229340293-5efea0fb-dcc5-4e92-9e7e-b1930627b4f6.png)
 
 Simple calculator using just core web technologies: HTML, CSS, and JavaScript. 
 This calculator can perform basic mathematical operations like addition, subtraction, multiplication, and division.
