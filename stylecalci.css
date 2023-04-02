@@ -29,7 +29,7 @@ button{
     height:60px;
     border-radius: 10px;
     /* box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2); */
-    background: skyblue;
+    background: rgb(92, 157, 182);
     font-size: 20px;
     color:white;
     cursor:pointer;
@@ -38,7 +38,7 @@ button{
     
 
 }
-.button:hover {background-color: rgb(74, 142, 169)}
+.button:hover {background-color: rgb(39, 103, 128)}
 
 form input{
     width: 330px;
@@ -60,12 +60,14 @@ form input{
 button#ac{
     background:orange;
 }
-button#ac{
-    background:orange;
+#ee{
+    background-color: orange;
 }
 
 #dd{
-    background: rgb(145, 146, 146);  
+    background: rgb(92, 157, 182);
+    color: black;  
 }
-#dd:hover {background-color: rgb(79, 80, 81)}
+#dd:hover {background-color: rgb(39, 103, 128)}
 #ac:hover {background-color: rgb(212, 125, 3)}
+#ee:hover {background-color: rgb(212, 125, 3)}
